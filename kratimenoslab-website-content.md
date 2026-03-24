@@ -74,56 +74,38 @@ Our SIDS research program explores why prematurity increases SIDS risk more than
 
 ### Georgios Sanidas
 - **Title:** Research Postdoctoral Fellow
-- **Email:** GSANIDAS@childrensnational.org
-- **Role:** Staff
 - **Bio:** MD, Postdoctoral Fellow at Children's National studying how prematurity affects infant brain development, SIDS mechanisms, and neonatal neuroprotection.
 
 ### Gabriele Simonti
 - **Title:** Clinical Research Coordinator
-- **Email:** GSIMONTI@childrensnational.org
-- **Role:** Staff
 - **Bio:** MA, Research Scientist at Children's National studying cerebellar development, prematurity effects, and motor rehabilitation in preterm infants.
 
 ### Courtney Lowe Reed
 - **Title:** Research Technician I
-- **Email:** CLOWE@childrensnational.org
-- **Role:** Staff
 - **Bio:** BA, Research Tech at Children's National bridging clinical-translational research in NEC brain injury, SIDS pathology, and neonatal outcomes.
 
 ### Robinson Vidva
 - **Title:** Research Technician I
-- **Email:** RVIDVA@childrensnational.org
-- **Role:** Staff
 - **Bio:** MBA, MS, Research Tech at Children's National specializing in multi-omics bioinformatics and behavioral analysis for preterm brain injury models.
 
 ### Javid Ghaemmaghami
 - **Title:** Research Trainee
-- **Email:** jghaemmagh@childrensnational.org
-- **Role:** Trainee
 - **Bio:** MS, PhD student at UMich studying SIDS pathology through bioinformatics, machine learning, and spatial transcriptomics of cerebellar development.
 
 ### Helen Chen
 - **Title:** Pediatric Resident
-- **Email:** HCHEN31@childrensnational.org
-- **Role:** Staff
 - **Bio:** MD/PhD, Pediatric Resident at Children's National researching how maternal stress and perinatal experiences shape neonatal immune development and infection response.
 
 ### Rodolfo Cardenas Trejo
 - **Title:** Fellow
-- **Email:** rcardenast@childrensnational.org
-- **Role:** Staff
 - **Bio:** MD, Neonatal-Perinatal Medicine Fellow at Children's National with residency training at Children's National Hospital.
 
 ### Sophie Reid
 - **Title:** Neurology Resident
-- **Email:** sreid1@childrensnational.org
-- **Role:** Staff
 - **Bio:** MD, PGY-3 Child Neurology Resident at Children's National researching neurodevelopmental outcomes in critically ill pediatric patients across NICU, CICU, and PICU.
 
 ### Daniel Bittel
 - **Title:** Research Postdoctoral Fellow
-- **Email:** dbittel@childrensnational.org
-- **Role:** Staff
 - **Bio:** PhD, Postdoctoral Fellow at Children's National researching bio-physiological connections between movement, exercise, and skeletal-muscle plasticity in injury and disease.
 
 ---
